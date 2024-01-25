@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Play Me",
+    "imageSrc": "projects/project-1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/saurabhguptacse27/PlayMe-Music-App.git"
+  },
+  {
+    "title": "Connectify",
+    "imageSrc": "projects/project-2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Bootstrap","Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/saurabhguptacse27/Connectify.git"
+  }
+]

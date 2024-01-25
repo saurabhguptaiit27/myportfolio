@@ -1,0 +1,42 @@
+[
+  {
+    "degree": "MTech.",
+    "stream":"Energy Science and Engineering",
+    "results" : "7.4 CGPA",
+    "resultproof":"education/MTechreportcard.pdf",
+    "Organisation": "Indian Institute of Technology Kharagpur",
+    "startDate": "July 2019",
+    "endDate": "July 2021",
+    "imageSrc": "education/education.png"
+  },
+  {
+    "degree": "BTech.",
+    "stream":"Electrical and Electronics Engineering",
+    "results" : "76 %",
+    "resultproof":"education/BTechreportcard.jpg",
+    "Organisation": "JSS Academy of Technical Education NOIDA",
+    "startDate": "July 2014",
+    "endDate": "July 2018",
+    "imageSrc": "education/education.png"
+  },
+  {
+    "degree": "Intermediate",
+    "stream":"Physics Chemistry Mathematics",
+    "results" : "89.8 %",
+    "resultproof":"education/Intermediatereportcard.jpg",
+    "Organisation": "Children Senior Secondary School UP",
+    "startDate": "May 2012",
+    "endDate": "May 2013",
+    "imageSrc": "education/education.png"
+  },
+  {
+    "degree": "High School",
+    "stream":"Physics Chemistry Mathematics",
+    "results" : "9.8 CGPA",
+    "resultproof":"education/Highschoolreportcard.jpg",
+    "Organisation": "Children Senior Secondary School UP",
+    "startDate": "May 2010",
+    "endDate": "May 2011",
+    "imageSrc": "education/education.png"
+  }
+]
