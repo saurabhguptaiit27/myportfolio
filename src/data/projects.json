@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CSmock",
+    "imageSrc": "projects/project1.jpg",
+    "description": "FullStack project for tech learners, can book online meetings with experts, post and find Jobs, have discussions, get tech news and chat support.",
+    "skills": ["Tailwind", "React", "Expressjs", "MongoDB", "socket.io"],
+    "demo": "https://csmock.vercel.app/",
+    "source": "https://github.com/saurabhguptaiit27/CSmock-Frontend"
+  },
+  {
+    "title": "Videotube-Backend",
+    "imageSrc": "projects/project2.jpg",
+    "description": "This is a Backend Project for the video sharing app similar to youtube where users can share video, can have subsribers, like and comment on videos etc.",
+    "skills": ["Javascript", "Expressjs", "MongoDB", "Cloudinary", "JWT auth"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/saurabhguptaiit27/videotube-Backend"
+  },
+  {
+    "title": "PlayMe",
+    "imageSrc": "projects/project3.jpg",
+    "description": "This is a music player web app.This app has features like search, play, pause, jump to next and previous music with progress bar alongwith that, one can tune volume also.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/saurabhguptaiit27/PlayMe"
+  }
+]
