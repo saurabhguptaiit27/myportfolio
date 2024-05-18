@@ -20,6 +20,9 @@ export const Navbar = () => {
             <a href="#about">About</a>
           </li>
           <li>
+            <a href="#experience">Experience</a>
+          </li>
+          <li>
             <a href="#education">Education</a>
           </li>
           <li>
@@ -35,16 +38,16 @@ export const Navbar = () => {
             <a href="#contact">Contact</a>
           </li>
         </ul>
-          <img
-            className={styles.menuBtn}
-            src={
-              menuOpen
-                ? getImageUrl("nav/closeIcon.png")
-                : getImageUrl("nav/menuIcon.png")
-            }
-            alt="menu-button"
-            onClick={() => setMenuOpen(!menuOpen)}
-          />
+        <img
+          className={styles.menuBtn}
+          src={
+            menuOpen
+              ? getImageUrl("nav/closeIcon.png")
+              : getImageUrl("nav/menuIcon.png")
+          }
+          alt="menu-button"
+          onClick={() => setMenuOpen(!menuOpen)}
+        />
       </div>
     </nav>
   );

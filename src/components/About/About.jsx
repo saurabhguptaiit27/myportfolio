@@ -17,7 +17,14 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-              As a budding software developer, I am eager to commence my journey in the dynamic realm of IT, with a specific focus on full-stack web development. My foundation in JavaScript and Java and a passion for coding and web development equip me to contribute meaningfully to the projects. I am committed to staying abreast of the latest web development trends, possessing an analytical mindset and a dedication to continuous learning which make me a motivated candidate for this role.
+                Experienced in developing both frontend and backend systems
+                leading platform architecture and development for internal and
+                external use. Skilled in optimizing algorithms and enhancing
+                system performance. Proven track record of improving operational
+                efficiency and stakeholder engagement through innovative
+                solutions. Proficient in a wide range of technologies, driving
+                significant improvements in workflow processes and response
+                times.
               </p>
             </div>
           </li>
