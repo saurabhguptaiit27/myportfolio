@@ -24,6 +24,10 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
@@ -34,6 +38,10 @@
   {
     "title": "Cloud",
     "imageSrc": "skills/cloud.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "Github",
