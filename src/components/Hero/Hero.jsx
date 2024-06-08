@@ -8,11 +8,12 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>
-          <h5>Hi, I'm</h5> Saurabh Gupta
+          <h5>Hi, I'm</h5>
+          <span>Saurabh Gupta</span>
         </h1>
         <p className={styles.description}>
-          Software developer with fundamentals in front-end and back-end web
-          development.
+          Software developer with 2+ years of experience in front-end and
+          back-end web development.
         </p>
         <a
           href={`${getImageUrl("cv/SaurabhGuptaCSResume.pdf")}`}
