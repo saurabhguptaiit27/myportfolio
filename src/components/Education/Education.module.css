@@ -66,6 +66,10 @@
   width: 50px;
 }
 
+.eduItem h3 {
+ color: yellow;
+}
+
 .eduItemDetails {
   font-family: var(--font-roboto);
 }

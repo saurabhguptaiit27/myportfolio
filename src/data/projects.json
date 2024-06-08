@@ -8,6 +8,14 @@
     "source": "https://github.com/saurabhguptaiit27/CSmock-Frontend"
   },
   {
+    "title": "nextMEET",
+    "imageSrc": "projects/project4.jpg",
+    "description": "This project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities.",
+    "skills": ["Tailwind", "Next.js", "Clerk", "Stream"],
+    "demo": "https://nextmeet27.vercel.app/",
+    "source": "https://github.com/saurabhguptaiit27/nextMeet"
+  },
+  {
     "title": "Videotube-Backend",
     "imageSrc": "projects/project2.jpg",
     "description": "This is a Backend Project for the video sharing app similar to youtube where users can share video, can have subsribers, like and comment on videos etc.",

@@ -81,6 +81,14 @@
   width: 50px;
 }
 
+.expItem h2 {
+color: yellow;
+}
+
+.expItem h3 {
+color: greenyellow;
+}
+
 .expItemDetails {
   font-family: var(--font-roboto);
 }

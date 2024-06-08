@@ -15,7 +15,7 @@
   font-size: 30px;
   font-weight: 600;
   text-decoration: none;
-  color: var(--color-text);
+  color:yellow
 }
 
 .menu {
@@ -29,16 +29,15 @@
 }
 
 .menuItems a {
-  font-size: 20px;
+  font-size: 15px;
   color: var(--color-text);
   text-decoration: none;
 }
 
 .menuItems a:hover {
-color: rgb(235, 222, 157);
-font-size: 19.8px;
-transition: color 500ms,
-font-size 500ms;
+  color: rgb(235, 222, 157);
+  font-size: 17px;
+  transition: color 500ms, font-size 500ms;
 }
 
 @media screen and (max-width: 830px) {
@@ -61,13 +60,12 @@ font-size 500ms;
     display: block;
     cursor: pointer;
   }
-  
 
   .menuItems {
     display: none;
     flex-direction: column;
     align-items: center;
-    gap: 13px;
+    gap: 8px;
     border-radius: 10px;
     background: rgb(25, 55, 109);
     background: linear-gradient(
@@ -82,5 +80,11 @@ font-size 500ms;
   .menuOpen {
     display: flex;
     z-index: 1;
+  }
+}
+
+@media (min-width: 850px) {
+  .menuBtn {
+    display: none;
   }
 }

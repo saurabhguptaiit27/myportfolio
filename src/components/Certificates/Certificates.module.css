@@ -12,9 +12,9 @@
 }
 
 .title {
-  color: var(--color-text);
+  color: black;
   font-size: 35px;
-  font-weight: 700;
+  font-weight: bolder;
   letter-spacing: 1.75px;
   text-transform: uppercase;
 }
@@ -50,6 +50,10 @@
 
 .certiItem img {
   width: 50px;
+}
+
+.certiItem h3 {
+  color: greenyellow;
 }
 
 .certiItemDetails {
