@@ -14,13 +14,21 @@ export const Education = () => {
             {education.map((eduItem, id) => {
               return (
                 <li key={id} className={styles.eduItem}>
-                  <img className={styles.eduImg}
+                  <img
+                    className={styles.eduImg}
                     src={getImageUrl(eduItem.imageSrc)}
                     alt={`${eduItem.organisation} Logo`}
                   />
                   <div className={styles.eduItemDetails}>
                     <h3>{`${eduItem.degree} - ${eduItem.Organisation}`}</h3>
-                    <p>{`${eduItem.stream}`}<span> - </span><a href={`${getImageUrl(eduItem.resultproof)}`}>{`${eduItem.results}`}</a></p>
+                    <p>
+                      {`${eduItem.stream}`}
+                      <span> - </span>
+                      <a
+                        href={`${getImageUrl(eduItem.resultproof)}`}
+                      >{`${eduItem.results}`}</a>
+                      🔗
+                    </p>
                     <p>{`${eduItem.startDate} - ${eduItem.endDate}`}</p>
                   </div>
                 </li>
