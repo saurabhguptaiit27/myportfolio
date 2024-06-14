@@ -9,6 +9,7 @@
   background-color: rgb(233, 196, 84);
   background: linear-gradient(90deg, rgb(233, 196, 84) 0%, hsla(70, 88%, 44%, 0) 100%);
   border-radius: 15px;
+  overflow: hidden;
 }
 
 .title {
