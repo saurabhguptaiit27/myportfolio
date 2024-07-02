@@ -1,5 +1,12 @@
 [
   {
+    "title": "JavaScript Foundations Professional Certificate by Mozilla",
+    "link": "https://lnkd.in/gkuC5um6",
+    "Organisation": "Mozilla and LinkedIn Learning",
+    "Date": "June 2024",
+    "imageSrc": "certificates/certificates.png"
+  },
+  {
     "title": "OpenEDG Python Institute: Programming with Python Professional Certificate",
     "link": "https://lnkd.in/gJj_Znhp",
     "Organisation": "OpenEDG Python Institute and LinkedIn Learning",
@@ -24,13 +31,6 @@
     "title": "SQL and Relational Databases 101",
     "link": "https://courses.cognitiveclass.ai/certificates/6e5f8bfe0f584463846fc6dc9fb80f1b",
     "Organisation": "IBM Developer Skills Network",
-    "Date": "January 2024",
-    "imageSrc": "certificates/certificates.png"
-  },
-  {
-    "title": "Introduction to Java and Object-Oriented Programming",
-    "link": "https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1704295982/1047509439SG",
-    "Organisation": "Saylor Academy",
     "Date": "January 2024",
     "imageSrc": "certificates/certificates.png"
   },
