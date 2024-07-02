@@ -5,6 +5,6 @@
     "startDate": "March 2022",
     "endDate": "April 2024",
     "imageSrc": "experience/experience.png",
-    "jobSummary": "Experienced Platform Developer with expertise in frontend and backend development, architecture, algorithm engineering, system optimization, and workflow improvements. Proficient in JavaScript, React, Python, Node.js, MongoDB and more."
+    "jobSummary": "Led the frontend development for three external platforms tailored for industry experts, job seekers, and partners. Enhanced user engagement and operational efficiency by designing and implementing user interfaces using JavaScript and ReactJS, ensuring a seamless and responsive user experience. Utilized Tailwind CSS for styling and maintained high performance and scalability through best practices. Implemented Webpack for bundling and Babel for cross-browser compatibility, reducing load times by 300 ms. Utilized code splitting and lazy loading to improve resource management by 120 ms. Emphasized UX/UI and responsive design, boosting user satisfaction by 40%. Conducted code optimization, enhancing performance by 10% through efficient refactoring."
   }
 ]
