@@ -6,7 +6,11 @@
   margin-left: 10%;
   margin-right: 10%;
   background-color: rgb(58, 99, 179);
-  background: linear-gradient(90deg, rgb(58, 99, 179) 0%, hsla(70, 88%, 44%, 0) 100%);
+  background: linear-gradient(
+    90deg,
+    rgb(58, 99, 179) 0%,
+    hsla(70, 88%, 44%, 0) 100%
+  );
   padding: 25px;
   border-radius: 20px;
 }
@@ -59,7 +63,6 @@
   font-family: var(--font-roboto);
   font-weight: 500;
 }
-
 
 @media screen and (max-width: 830px) {
   .content {

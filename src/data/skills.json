@@ -12,24 +12,28 @@
     "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "Python",
-    "imageSrc": "skills/python.png"
-  },
-  {
     "title": "React",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "RTK",
+    "imageSrc": "skills/redux-icon.png"
   },
   {
     "title": "Next.js",
     "imageSrc": "skills/nextjs.png"
   },
   {
-    "title": "ExpressJs",
-    "imageSrc": "skills/node.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "SpringBoot",
+    "imageSrc": "skills/springBoot.png"
+  },
+  {
+    "title": "ExpressJs",
+    "imageSrc": "skills/node.png"
   },
   {
     "title": "MongoDB",

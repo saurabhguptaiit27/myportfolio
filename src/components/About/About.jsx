@@ -17,14 +17,16 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                Experienced in developing both frontend and backend systems
-                leading platform architecture and development for internal and
-                external use. Skilled in optimizing algorithms and enhancing
-                system performance. Proven track record of improving operational
-                efficiency and stakeholder engagement through innovative
-                solutions. Proficient in a wide range of technologies, driving
-                significant improvements in workflow processes and response
-                times.
+                Experienced Software Engineer with a strong background in
+                developing scalable frontend and backend systems. Proficient in
+                React, JavaScript, Java, and Spring Boot, with hands-on
+                experience in building end-to-end applications and leading
+                platform architecture for both internal tools and
+                customer-facing products. Skilled in optimizing algorithms,
+                improving system performance, and implementing efficient API
+                designs. Proven track record of driving workflow improvements,
+                reducing response times, and delivering solutions that enhance
+                operational efficiency and stakeholder satisfaction.
               </p>
             </div>
           </li>

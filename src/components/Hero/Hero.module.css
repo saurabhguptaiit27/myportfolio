@@ -38,7 +38,7 @@ h5 {
   -webkit-background-clip: text;
 }
 
-.title span{
+.title span {
   font-size: 72px;
   font-weight: 900;
   margin-bottom: 33px;
@@ -48,7 +48,7 @@ h5 {
     rgba(255, 255, 255, 1) 70%,
     rgba(255, 255, 255, 0) 120%
   );
-  -webkit-text-fill-color:greenyellow;
+  -webkit-text-fill-color: greenyellow;
   background-clip: text;
   -webkit-background-clip: text;
 }
@@ -84,7 +84,7 @@ h5 {
 }
 
 .heroImg {
-  width: 30%;
+  width: 50%;
   z-index: 1;
   border-radius: 20px;
   animation-name: floating;

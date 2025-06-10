@@ -12,7 +12,7 @@ export const Hero = () => {
           <span>Saurabh Gupta</span>
         </h1>
         <p className={styles.description}>
-          Software developer with 2+ years of experience in front-end and
+          Software developer with 3.1 years of experience in front-end and
           back-end web development.
         </p>
         <a
